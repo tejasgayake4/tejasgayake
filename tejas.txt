@@ -1,3 +1,9 @@
 dfds
 gdfs
 sgfds
+
+ git init
+ git status
+  git remote add origin https://github.com/tejasgayake4/tejasgayake.git
+   git commit -m "first commit"
+    git push -u origin master
